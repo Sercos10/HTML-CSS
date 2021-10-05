@@ -7,7 +7,13 @@
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="nombre" type="xs:string"/> 
-                            <xs:element name="email" type="xs:string"/>
+                            <xs:element name="email">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:maxLength value="250"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
                             <xs:element name="parentesco"/>
                         </xs:sequence>
                         <xs:attribute name="sexo" type="xs:string" use="required"/>
