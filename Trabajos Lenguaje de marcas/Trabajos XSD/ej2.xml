@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE shiporder>
+<shiporder orderid="primer pedido">
+    <orderperson>Antonio Casado Perez</orderperson>
+    <shipto>
+        <name>Jesus</name>
+        <address>c/Jesus Murillo n7 p14</address>
+        <city>Jesulino</city>
+        <country>España</country>
+    </shipto>
+    <item>
+        <title>sal</title>
+        <note>sal marina 100g 0% cosas integradas</note>
+        <quantity>3</quantity>
+        <price>1.0</price>
+    </item>
+</shiporder>

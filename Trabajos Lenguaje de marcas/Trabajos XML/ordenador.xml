@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ordenador>
+<ordenador nombre="DESKTOP-5836UT29">
+    <componentes>
+        <caja>
+            <fabricante>Corsair iCUE 220T RGB Airflow Cristal Templado USB 3.0 Negra</fabricante>
+            <precio>90.04</precio>
+            <caracteristicas>
+                <dimensiones>395 mm x 210 mm x 450 mm</dimensiones>
+                <factor_de_forma>ATX, Micro-ATX, Mini-ITX</factor_de_forma>
+                <dimensiones_radiador>Delantero: 360 mm/280 mm Superior: 240 mm Posterior: 120 mm</dimensiones_radiador>
+            </caracteristicas>
+        </caja>
+        <placa_base>
+            <fabricante>Gigabyte B550 AORUS ELITE V2</fabricante>
+            <precio>123.09</precio>
+            <caracteristicas>
+                <compatibilidad_cpu> AMD Ryzen ™ 5000 Series / 3rd Gen Ryzen ™ y 3rd Gen Ryzen ™ con procesadores gráficos Radeon ™</compatibilidad_cpu>
+                <compatibilidad_ram>4 x DDR4 DIMM sockets supporting up to 128 GB Support for DDR4 4400(O.C.) / 4000(O.C.) / 3600(O.C.) / 3333(O.C.) /3200/2933/2667/2400/2133 MHz memory modules</compatibilidad_ram>
+                <interfaz_almacenamiento>1 x M.2 connector (M2A_CPU), integrated in the CPU, supporting Socket 3, M key, type 2242/2260/2280/22110 SSDs</interfaz_almacenamiento>
+            </caracteristicas>
+        </placa_base>
+        <procesador>
+            <fabricante>AMD Ryzen 5 5600X 3.7GHz</fabricante>
+            <precio>299.90</precio>
+            <caracteristicas>
+                <nucleos_hilos>6 nucleos / 12 hilos</nucleos_hilos>
+                <frecuencia>3,7GHz hasta 4,6GHz</frecuencia>
+                <cache>Caché L2 total 3MB Caché L3 total 32MB</cache>
+            </caracteristicas>
+        </procesador>
+        <disipador>
+            <fabricante>NZXT Kraken X63 Kit De Refrigeracion Liquida</fabricante>
+            <precio>129.41</precio>
+            <caracteristicas>
+                <dimensiones_bloque> 80 x 80 x 55 mm</dimensiones_bloque>
+                <dimensiones_radiador> 143 x 315 x 30 mm</dimensiones_radiador>
+                <velocidad_ventiladores>800 - 2,800 + 300 RPM, 12V DC, 0.3A</velocidad_ventiladores> 
+            </caracteristicas>
+        </disipador>
+        <disco_duro>
+            <fabricante>Samsung 980 SSD 1TB PCIe 3.0 NVMe M.2</fabricante>
+            <precio>133.18</precio>
+            <caracteristicas>
+                <tiempo_de_vida>1500000</tiempo_de_vida>
+                <velocidad_lectura>3500 MB/s</velocidad_lectura>
+                <velocidad_escritura>3000 MB/s</velocidad_escritura>
+            </caracteristicas>
+        </disco_duro>
+        <ram>
+            <fabricante>Corsair Vengeance RGB Pro DDR4 3200 PC4 25600 32GB 2x16GB CL16</fabricante>
+            <precio>179.33</precio>
+            <caracteristicas>
+                <memoria_total>32GB</memoria_total>
+                <velocidad_memoria>3200MHz</velocidad_memoria>
+                <latencia_CAS>16</latencia_CAS>
+            </caracteristicas>
+        </ram>
+        <fuente_de_alimentacion>
+            <fabricante>Corsair RM Series RM850 850W 80 Plus Gold Full Modular</fabricante>
+            <precio>104.07</precio>
+            <caracteristicas>
+                <potencia>850W</potencia>
+                <puertos>
+                    Alimentador de energía para tarjeta madre: 24-pin ATX
+                    Número de conectores de energía SATA: 14
+                    Conectores de poder PCI Express (6 + 2 pin): 4
+                </puertos>
+                <tipo_cableado>Modular</tipo_cableado>
+            </caracteristicas>
+        </fuente_de_alimentacion>
+        <ventiladores>
+            <fabricante>Noctua NF-F12 PWM Industrial PPC 120mm 2000RPM</fabricante>
+            <precio>27.90</precio>
+            <caracteristicas>
+                <dimensiones>120x120mm</dimensiones>
+                <velocidad_rotacion>2000RPM</velocidad_rotacion>
+                <conexion>4-pin</conexion>
+            </caracteristicas>
+        </ventiladores>
+        <tarjeta_grafica>
+            <fabricante>PowerColor Red Devil AMD Radeon RX 6600XT 8GB GDDR6</fabricante>
+            <precio>579.90</precio>
+            <caracteristicas>
+                <vram>8GB GDDR6</vram>
+                <puertos_salida>
+                    VGA
+                    DVI
+                    DisplayPort7680×4320
+                    HDMI7680×4320
+                </puertos_salida>
+                <dimensiones>Board Dimensions251.2mm*132.8mm*53.6mm</dimensiones>
+            </caracteristicas>
+        </tarjeta_grafica>
+    </componentes>
+</ordenador>

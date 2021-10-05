@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE horario>
+<horario>
+    <aula> edificio ciclos 3
+        <asignaturas>
+            <base_de_datos>
+                <profesor>Manolo Cosano, David</profesor>
+                <dia>lunes
+                    <hora>8:30 - 9:30, 12:00 - 13:00</hora>
+                </dia>
+                <dia> miercoles
+                    <hora>12:00 - 13:00</hora>
+                </dia>
+                <dia> jueves
+                    <hora>8:30 - 9:30</hora>
+                </dia>
+                <dia> viernes
+                    <hora>8:30 - 9:30, 9:30 - 10:30</hora>
+                </dia>
+            </base_de_datos>
+            <sistemas_informaticos>
+                <profesor>Antonio Sillero</profesor>
+                <dia> lunes
+                    <hora>9:30 - 10:30</hora>
+                </dia>
+                <dia> martes
+                    <hora>13:00 - 14:00</hora>
+                </dia>
+                <dia> miercoles
+                    <hora>13:00 - 14:00</hora>
+                </dia>
+                <dia> jueves
+                    <hora>13:00 - 14:00, 14:00 - 15:00</hora>
+                </dia>
+                <dia> viernes
+                    <hora>10:30 - 11:30</hora>
+                </dia>
+            </sistemas_informaticos>
+            <lenguaje_de_marcas>
+                <profesor>Miguel Morales</profesor>
+                <dia> lunes
+                    <hora>10:30 - 11:30</hora>
+                </dia>
+                <dia> martes
+                    <hora>8:30 - 9:30, 9:30 - 10:30</hora>
+                </dia>
+                <dia> jueves
+                    <hora>12:00 - 13:00</hora>
+                </dia>
+            </lenguaje_de_marcas>
+            <entornos_de_desarrollo>
+                <profesor>Miguel Morales</profesor>
+                <dia> lunes
+                    <hora>13:00 - 14:00, 14:00 - 15:00</hora>
+                </dia>
+                <dia> miercoles
+                    <hora>14:00 - 15:00</hora>
+                </dia>
+            </entornos_de_desarrollo>
+            <programacion>
+                <profesor>Mari Carmen, Carlos y David</profesor>
+                <dia> martes
+                    <hora>10:30 - 11:30, 12:00 - 13:00, 14:00 - 15:00</hora>
+                </dia>
+                <dia> miercoles
+                    <hora>>8:30 - 9:30, 9:30 - 10:30</hora>
+                </dia>
+                <dia> Jueves
+                    <hora>9:30 - 10:30, 10:30 - 11:30</hora>
+                </dia>
+                <dia> viernes
+                    <hora>14:00 - 15:00</hora>
+                </dia>
+            </programacion>
+            <fol>
+                <profesor>Paco Ruiz</profesor>
+                <dia> miercoles
+                    <hora>10:30 - 11:30</hora>
+                </dia>
+                <dia>viernes
+                    <hora>12:00 - 13:00, 13:00 - 14:00</hora>
+                </dia>
+            </fol>
+        </asignaturas>
+    </aula>
+   
+</horario>

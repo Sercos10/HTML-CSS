@@ -1,0 +1,10 @@
+img{
+    float: right;
+    padding-right: 12%;
+}
+div li{
+    list-style-type: none;
+}
+div li:before{
+    content: "-"
+};

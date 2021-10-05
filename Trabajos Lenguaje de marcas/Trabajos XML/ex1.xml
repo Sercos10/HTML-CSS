@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE profesorado>
+<profesorado>
+    <profesor nombre="Miguel" genero="Hombre">
+        <asignatura nombre="Lenguaje de Marcas">
+            <alumnos>
+                <alumno>Luis Luna</alumno>
+                <alumno>Miguel Serrano</alumno>
+                <alumno>Carlos Gimenez</alumno>
+                <alumno>Gonzalo Garcia</alumno>
+                <alumno>Victor Paez</alumno>
+                <alumno>Sergio Cosano</alumno>
+                <alumno>Fernando Rodriguez</alumno>
+                <alumno>Jesus Murillo</alumno>
+                <alumno>Guillermo Prados</alumno>
+                <alumno>Alejandro Gutierrez</alumno>
+            </alumnos>
+        </asignatura>
+        <asignatura alumno="Sistemas Informaticos">
+            <alumnos>
+                <alumno>Luis Luna</alumno>
+                <alumno>Miguel Serrano</alumno>
+                <alumno>Carlos Gimenez</alumno>
+                <alumno>Gonzalo Garcia</alumno>
+                <alumno>Victor Paez</alumno>
+                <alumno>Sergio Cosano</alumno>
+                <alumno>Fernando Rodriguez</alumno>
+                <alumno>Jesus Murillo</alumno>
+                <alumno>Guillermo Prados</alumno>
+                <alumno>Alejandro Gutierrez</alumno>
+            </alumnos>
+        </asignatura>
+        <asignatura alumno="Entornos de Desarrollo">
+            <alumnos>
+                <alumno>Luis Luna</alumno>
+                <alumno>Miguel Serrano</alumno>
+                <alumno>Carlos Gimenez</alumno>
+                <alumno>Gonzalo Garcia</alumno>
+                <alumno>Victor Paez</alumno>
+                <alumno>Sergio Cosano</alumno>
+                <alumno>Fernando Rodriguez</alumno>
+                <alumno>Jesus Murillo</alumno>
+                <alumno>Guillermo Prados</alumno>
+                <alumno>Alejandro Gutierrez</alumno>
+            </alumnos>
+        </asignatura>
+    </profesor>
+</profesorado>

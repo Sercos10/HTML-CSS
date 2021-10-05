@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ruta>
+<ruta nombre="Fernan-Nunez - Cordoba" empresa="Autobuses Carrera">
+    <horario>
+        <hora>8'50 - 9'20</hora>
+        <hora>9'50 - 10'20</hora>
+        <hora>11'50 - 12'20</hora>
+        <hora>13'00 - 13'30</hora>
+        <hora>17'15 - 17'45</hora>
+        <hora>18'50 - 19'20</hora>
+    </horario>
+    <paradas>
+        <parada>Puente Genil</parada>
+        <parada>Montilla</parada>
+        <parada>Montemayor</parada>
+        <parada>Fernan Nunez</parada>
+        <parada>Cordoba</parada>
+    </paradas>
+</ruta>

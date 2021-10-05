@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE libro>
+<libro>
+    <receta nombre="Huevos Fritos con Patatas">
+        <ingredientes>
+            <ingrediente>Huevos</ingrediente>
+            <ingrediente>Aceite</ingrediente>
+            <ingrediente>Patatas</ingrediente>
+            <ingrediente>Sal</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Cogemos una sarten y le hechamos un chorro de aceite y ponemos la vitro al 7</paso>
+            <paso>Pelamos las patatas para ponerlas a freir despues</paso>
+            <paso>Cuando las patatas esten peladas cogemos una freidora y le hechamos aceite y lo calentamos</paso>
+            <paso>Cuando el aceite de la sarten ya este caliente partimos un huevo y lo hechamos dentro de la sarten y en la llema le hechamos un poquito de sal</paso>
+            <paso>Ahora echamos las patatas en la freidora y las dejamos unos 10 mminutos para que salgan entre blandas y crujientes</paso>
+            <paso>Dejamos el huevo friendose hasta que la superficie de la llema se ponga blanca y ya sacamos el huevo</paso>
+            <paso>Sacamos las patatas y las ponemos en un plato o un bol y ya estamos listos para comer</paso>
+        </pasos>
+    </receta>
+    <receta nombre="Tortilla Francesa">
+        <ingredientes>
+            <ingrediente>Huevos</ingrediente>
+            <ingrediente>Aceite</ingrediente>
+            <ingrediente>Sal</ingrediente>
+        </ingredientes>
+        <pasos>
+            <paso>Rompemos la cantidad de huevos que queramos para nuestra tortilla en un plato o bol y los batimos con un tenedor o lo que queramos</paso>
+            <paso>Encendemos la vitroceramica y la ponemos en fuerza 7, cuando este caliente hechamos los huevos batidos a una sarten</paso>
+            <paso>Con una espatula vamos a despegar la tortilla de los lados de la sarten para que no se pegue</paso>
+            <paso>Hacemos continuamente el paso anterior hasta que veamos que la tortilla esta ya hecha y la sacamos de la sarten y la ponemos en un plato</paso>
+        </pasos>
+    </receta>
+</libro>
