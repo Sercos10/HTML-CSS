@@ -3,20 +3,34 @@
     <xs:element name="relacion">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="persona"> 
+                <xs:element name="persona" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="nombre" type="xs:string"/> 
-                            <xs:element name="email">
+                            <xs:element name="email" maxOccurs="unbounded">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
                                         <xs:maxLength value="250"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>
-                            <xs:element name="parentesco"/>
+                            <xs:element name="parentesco" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:attribute name="tipo" use="required">
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:enumeration value="Hijo"/>
+                                                <xs:enumeration value="Hija"/>
+                                                <xs:enumeration value="Padre"/>
+                                                <xs:enumeration value="Madre"/>
+                                                <xs:enumeration value="Otro"/>
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
                         </xs:sequence>
-                        <xs:attribute name="sexo" type="xs:string" use="required"/>
+                        <xs:attribute name="sexo" type="xs:string"/>
                         <xs:attribute name="carnet" use="required">
                             <xs:simpleType>
                                 <xs:restriction base="xs:string">
@@ -24,17 +38,6 @@
                                 </xs:restriction>                          
                             </xs:simpleType>
                         </xs:attribute> 
-                        <xs:attribute name="tipo" use="required">
-                            <xs:simpleType>
-                                <xs:restriction base="xs:string">
-                                    <xs:enumeration value="Hijo"/>
-                                    <xs:enumeration value="Hija"/>
-                                    <xs:enumeration value="Padre"/>
-                                    <xs:enumeration value="Madre"/>
-                                    <xs:enumeration value="Otro"/>
-                                </xs:restriction>
-                            </xs:simpleType>
-                        </xs:attribute>
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>
