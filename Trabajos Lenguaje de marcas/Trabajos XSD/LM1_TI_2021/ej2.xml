@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE cluster>
+<cluster>
+    <nodo nombre="hola" ip="0.0.0.0">
+        <maquina_virtual nombre="Hola">
+            <so>Windows</so>
+            <interfaz_red>
+                <ip>1.1.1.1</ip>
+                <mac>AF:DC:HT:CD:WE:23:12:RT</mac>
+            </interfaz_red>
+            <interfaz_red>
+                <ip>2.2.2.2</ip>
+                <mac>BF:DL:HT:CD:WE:23:12:RT</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="Adios">
+            <so>Windows</so>
+            <interfaz_red>
+                <ip>1.2.1.1</ip>
+                <mac>AF:DC:HT:CD:TH:23:12:RT</mac>
+            </interfaz_red>
+            <interfaz_red>
+                <ip>2.5.2.2</ip>
+                <mac>BF:DL:HT:CD:WE:PO:12:RT</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="Y">
+            <so>Windows</so>
+            <interfaz_red>
+                <ip>1.8.1.1</ip>
+                <mac>AF:RC:MT:CD:TH:23:12:RT</mac>
+            </interfaz_red>
+            <interfaz_red>
+                <ip>2.5.0.2</ip>
+                <mac>BF:DL:HT:CD:WE:QC:12:RT</mac>
+            </interfaz_red>
+        </maquina_virtual>
+    </nodo>
+    <nodo>
+        <maquina_virtual nombre="JAJA">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>7.6.5.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="NONO">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.9.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="JIJI">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.5.1</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+    </nodo>
+    <nodo>
+        <maquina_virtual nombre="JAJA">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>7.6.5.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="NONO">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.9.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="JIJI">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.5.1</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+    </nodo>
+    <nodo>
+        <maquina_virtual nombre="JAJA">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>7.6.5.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="NONO">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.9.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="JIJI">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.5.1</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+    </nodo>
+    <nodo>
+        <maquina_virtual nombre="JAJA">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>7.6.5.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="NONO">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.9.7</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+        <maquina_virtual nombre="JIJI">
+            <so>Linux</so>
+            <interfaz_red>
+                <ip>2.6.5.1</ip>
+                <mac>MN:BV:CX:DF:RE:TH:QA:WS</mac>
+            </interfaz_red>
+        </maquina_virtual>
+    </nodo>
+</cluster>

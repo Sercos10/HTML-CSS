@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE relacion>
 <relacion>
    <persona sexo="hombre" carnet="A1111">
      <nombre>Luis Martin</nombre>
