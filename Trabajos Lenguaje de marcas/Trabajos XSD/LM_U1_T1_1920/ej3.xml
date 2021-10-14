@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario>
+<concesionario>
+    <marca nombre="audi" pais_procedencia="Alemania">
+        <coche modelo="A3 Sportback" n_plazas="5">
+            <matricula>6845 FKL</matricula>
+            <anio_matri>2020</anio_matri>
+            <cv>116</cv>
+        </coche>
+        <coche modelo="RS3 Sportback quattro S" n_plazas="5">
+            <matricula>8547 AUD</matricula>
+            <anio_matri>2021</anio_matri>
+            <cv>400</cv>
+        </coche>
+    </marca>
+    <marca nombre="Toyota" pais_procedencia="Japon">
+        <coche modelo="Corolla Active Tech" n_plazas="5">
+            <matricula>2984 ETF</matricula>
+            <anio_matri>2021</anio_matri>
+            <cv>122</cv>
+        </coche>
+        <coche modelo="Corolla Touring Sports Active tech" n_plazas="5">
+            <matricula>6472 MSL</matricula>
+            <anio_matri>2019</anio_matri>
+            <cv>122</cv>
+        </coche>
+    </marca>
+    <marca nombre="audi" pais_procedencia="Alemania">
+        <coche modelo="A3 Sportback" n_plazas="5">
+            <matricula>6845 FKL</matricula>
+            <anio_matri>2020</anio_matri>
+            <cv>116</cv>
+        </coche>
+        <coche modelo="RS3 Sportback quattro S" n_plazas="5">
+            <matricula>8547 AUD</matricula>
+            <anio_matri>2021</anio_matri>
+            <cv>400</cv>
+        </coche>
+    </marca>
+    <marca nombre="Toyota" pais_procedencia="Japon">
+        <coche modelo="Corolla Active Tech" n_plazas="5">
+            <matricula>2984 ETF</matricula>
+            <anio_matri>2021</anio_matri>
+            <cv>122</cv>
+        </coche>
+        <coche modelo="Corolla Touring Sports Active tech" n_plazas="5">
+            <matricula>6472 MSL</matricula>
+            <anio_matri>2019</anio_matri>
+            <cv>122</cv>
+        </coche>
+    </marca>
+    <marca nombre="Toyota" pais_procedencia="Japon">
+        <coche modelo="Corolla Active Tech" n_plazas="5">
+            <matricula>2984 ETF</matricula>
+            <anio_matri>2021</anio_matri>
+            <cv>122</cv>
+        </coche>
+        <coche modelo="Corolla Touring Sports Active tech" n_plazas="5">
+            <matricula>6472 MSL</matricula>
+            <anio_matri>2019</anio_matri>
+            <cv>122</cv>
+        </coche>
+    </marca>
+</concesionario>

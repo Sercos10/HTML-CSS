@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro>
+<libro titulo="Cronocas de la torre I" editorial="Anaya" autor="Juanmaria Gonzalez" n_paginas="500">
+    <capitulo titulo="KAI" n_paginas="32">
+        <pag_inicio>5</pag_inicio>
+        <pag_final>37</pag_final>
+    </capitulo>
+    <capitulo titulo="El Hombre de la tunica gris" n_paginas="40">
+        <pag_inicio>38</pag_inicio>
+        <pag_final>78</pag_final>
+    </capitulo>
+    <capitulo titulo="La Torre" n_paginas="35">
+        <pag_inicio>79</pag_inicio>
+        <pag_final>104</pag_final>
+    </capitulo>
+    <capitulo titulo="Primeras Lecciones" n_paginas="50">
+        <pag_inicio>105</pag_inicio>
+        <pag_final>155</pag_final>
+    </capitulo>
+    <capitulo titulo="Visiones" n_paginas="43">
+        <pag_inicio>156</pag_inicio>
+        <pag_final>199</pag_final>
+    </capitulo>
+    <capitulo titulo="Preguntas" n_paginas="38">
+        <pag_inicio>200</pag_inicio>
+        <pag_final>238</pag_final>
+    </capitulo>
+</libro>

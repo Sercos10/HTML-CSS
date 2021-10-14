@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE centro_comercial>
+<centro_comercial>
+    <tienda nombre="Zara" n_parcelas="3" metros_cuadrados="300">
+        <encargado nombre="Alejandro" apellidos="Garcia Colon">
+            <tel_contact>684251536</tel_contact>
+            <NSS>54879625307</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Mango" n_parcelas="2" metros_cuadrados="200">
+        <encargado nombre="Sandro" apellidos="Alvarez Portal">
+            <tel_contact>854769321</tel_contact>
+            <NSS>45781295467</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Game" n_parcelas="1" metros_cuadrados="100">
+        <encargado nombre="Juan Maria" apellidos="Castillo Gonzalez">
+            <tel_contact>847562154</tel_contact>
+            <NSS>65410389517</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Zara" n_parcelas="3" metros_cuadrados="300">
+        <encargado nombre="Alejandro" apellidos="Garcia Colon">
+            <tel_contact>684251536</tel_contact>
+            <NSS>54879625307</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Mango" n_parcelas="2" metros_cuadrados="200">
+        <encargado nombre="Sandro" apellidos="Alvarez Portal">
+            <tel_contact>854769321</tel_contact>
+            <NSS>45781295467</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Game" n_parcelas="1" metros_cuadrados="100">
+        <encargado nombre="Juan Maria" apellidos="Castillo Gonzalez">
+            <tel_contact>847562154</tel_contact>
+            <NSS>65410389517</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Zara" n_parcelas="3" metros_cuadrados="300">
+        <encargado nombre="Alejandro" apellidos="Garcia Colon">
+            <tel_contact>684251536</tel_contact>
+            <NSS>54879625307</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Mango" n_parcelas="2" metros_cuadrados="200">
+        <encargado nombre="Sandro" apellidos="Alvarez Portal">
+            <tel_contact>854769321</tel_contact>
+            <NSS>45781295467</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Game" n_parcelas="1" metros_cuadrados="100">
+        <encargado nombre="Juan Maria" apellidos="Castillo Gonzalez">
+            <tel_contact>847562154</tel_contact>
+            <NSS>65410389517</NSS>
+        </encargado>
+    </tienda>
+    <tienda nombre="Zara" n_parcelas="3" metros_cuadrados="300">
+        <encargado nombre="Alejandro" apellidos="Garcia Colon">
+            <tel_contact>684251536</tel_contact>
+            <NSS>54879625307</NSS>
+        </encargado>
+    </tienda>
+</centro_comercial>
