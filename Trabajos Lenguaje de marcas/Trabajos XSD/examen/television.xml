@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE canales>
+<canales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="television.xsd">
+    <canal nombre="telecinco" numero="5">
+        <programacion dia="Lunes">
+            <programa>
+                <duracion>1,5horas</duracion>
+                <titulo>Salvame Deluxe</titulo>
+                <descripcion>Salen famosos que no los conocen ni en su casa discutiendo todo el rato</descripcion>
+                <clas_edad>6</clas_edad>
+                <subtitulos>true</subtitulos>
+                <idioma tipo="español"/>
+            </programa>
+            <programa>
+                <duracion>1 hora</duracion>
+                <titulo>telediario</titulo>
+                <descripcion>Simplemente te dicen las noticias del dia/semana, el 90% son malas, no merece ni la pena mirarlo</descripcion>
+                <clas_edad>12</clas_edad>
+                <subtitulos>true</subtitulos>
+                <idioma tipo="español"/>
+            </programa>
+            <anuncio>
+                <marca>Renault</marca>
+                <duracion>30 sec</duracion>
+                <horario>
+                    11:30
+                    15:00
+                    21:45
+                </horario>
+            </anuncio>
+            <anuncio>
+                <marca>Dior</marca>
+                <duracion>30 sec</duracion>
+                <horario>
+                    10:30
+                    16:00
+                    19:45
+                </horario>
+            </anuncio>
+        </programacion>
+    </canal>
+</canales>

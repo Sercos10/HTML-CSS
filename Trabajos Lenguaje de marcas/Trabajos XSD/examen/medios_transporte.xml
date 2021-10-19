@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE medio_transporte>
+<medio_transporte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <vehiculo tipo="Autobus">
+        <velocidad_max>90km/h</velocidad_max>
+        <contaminacion>120cm3</contaminacion>
+        <medio>carretera</medio>
+        <pasajeros>60</pasajeros>
+    </vehiculo>
+
+    <vehiculo tipo="Tren">
+        <velocidad_max>250km/h</velocidad_max>
+        <contaminacion>300cm3</contaminacion>
+        <medio>railes</medio>
+        <pasajeros>200</pasajeros>
+
+        <subtipo tipo="AVE">
+            <velocidad_max>350km/h</velocidad_max>
+            <contaminacion>330cm3</contaminacion>
+            <pasajeros>250</pasajeros>
+        </subtipo>
+
+        <subtipo tipo="tranvia">
+            <velocidad_max>120km/h</velocidad_max>
+            <contaminacion>150cm3</contaminacion>
+            <pasajeros>120</pasajeros>
+        </subtipo>
+
+    </vehiculo>
+    <vehiculo tipo="Avion">
+        <velocidad_max>500km/h</velocidad_max>
+        <contaminacion>650cm3</contaminacion>
+        <medio>aire</medio>
+        <pasajeros>400</pasajeros>
+    </vehiculo>
+
+    <conductor tipo="Autobus" dni="12345678C">
+        <num_telf>875642103</num_telf>
+        <matricula>6579 CDT</matricula>
+    </conductor>
+
+    <conductor tipo="Tren" dni="98765432T">
+        <num_telf>578102346</num_telf>
+        <matricula>4862 TRN</matricula>
+    </conductor>
+
+    <conductor tipo="Avion" dni="56874103A">
+        <num_telf>741963852</num_telf>
+        <matricula>2790 AVN</matricula>
+    </conductor>
+</medio_transporte> 

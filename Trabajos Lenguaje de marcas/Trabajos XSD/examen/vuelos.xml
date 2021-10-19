@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GWS_FlightInformationRQ>
+<GWS_FlightInformationRQ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xdexamen.xsd" returnFlightServiceInfo="true">
+    <Flights>
+        <Flight>
+            <airline>Qatar Airways</airline>
+            <number>5</number>
+            <date>23/11</date>
+            <orig>Madrid</orig>
+            <dest>Paris</dest>
+            <bic>Boing 747</bic>
+        </Flight>
+        <Flight>
+            <airline>Iberia</airline>
+            <number>4</number>
+            <date>14/06</date>
+            <orig>Cordoba</orig>
+            <dest>Barcelona</dest>
+            <bic>Boing 747</bic>
+        </Flight>
+    </Flights>
+</GWS_FlightInformationRQ>

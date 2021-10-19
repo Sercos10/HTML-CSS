@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE libreria>
-<libreria>
+<libreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="libro.xsd">
     <libro>
         <titulo>A Semantic Web Primer.</titulo>
         <autor>Antoniou, G and F. van Harmelen</autor>
