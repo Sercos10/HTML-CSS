@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<!DOCTYPE ex1>
+
+<mediosdetrasporte>
+    <mediodetransporte nombre="Tren">
+        <velocidadmaxima>300 km/h</velocidadmaxima>
+        <contaminacion>70</contaminacion>
+        <medio>Terrestre</medio>
+        <pasajeros>200</pasajeros>
+        <subtipos>
+            <subtipo tipo="AVE">
+                <velocidadmaxima>350 Km/h</velocidadmaxima>
+            </subtipo>
+            <subtipo tipo="Cercanías">
+                <velocidadmaxima>200 Km/h</velocidadmaxima>
+            </subtipo>
+        </subtipos>
+        <conductores>
+            <conductor vehiculo="Tren">
+                <dni>12345678A</dni>
+                <telefono>661902887</telefono>
+                <matricula>MUR8108</matricula>
+            </conductor>
+            <conductor vehiculo="Tren">
+                <dni>05285915D</dni>
+                <telefono>661902887</telefono>
+                <matricula>QAJ3018</matricula>
+            </conductor>
+            <conductor vehiculo="Tren">
+                <dni>91582951E</dni>
+                <telefono>666178191</telefono>
+                <matricula>ZAR0194</matricula>
+            </conductor>
+        </conductores>
+    </mediodetransporte>
+    <mediodetransporte nombre="Coche">
+        <velocidadmaxima>180 km/h</velocidadmaxima>
+        <contaminacion>80</contaminacion>
+        <medio>Terrestre</medio>
+        <pasajeros>5</pasajeros>
+        <conductores>
+            <conductor vehiculo="Coche">
+                <dni>98765432B</dni>
+                <telefono>691603950</telefono>
+                <matricula>FYN1908</matricula>
+            </conductor>
+        </conductores>
+    </mediodetransporte>
+    <mediodetransporte nombre="Bicicleta">
+        <velocidadmaxima>40 km/h</velocidadmaxima>
+        <contaminacion>0</contaminacion>
+        <medio>Terrestre</medio>
+        <pasajeros>1</pasajeros>
+        <conductores>
+            <conductor vehiculo="Bicicleta">
+                <dni>74912038C</dni>
+                <telefono>916390175</telefono>
+            </conductor>
+        </conductores>
+    </mediodetransporte>
+</mediosdetrasporte>

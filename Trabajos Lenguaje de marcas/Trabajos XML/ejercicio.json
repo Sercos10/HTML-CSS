@@ -1,0 +1,77 @@
+{
+    "mediosdetrasporte": {
+      "mediodetransporte": [
+        {
+          "@nombre": "Tren",
+          "velocidadmaxima": "300 km/h",
+          "contaminacion": "70",
+          "medio": "Terrestre",
+          "pasajeros": "200",
+          "subtipos": {
+            "subtipo": [
+              {
+                "@tipo": "AVE",
+                "velocidadmaxima": "350 Km/h"
+              },
+              {
+                "@tipo": "Cercanías",
+                "velocidadmaxima": "200 Km/h"
+              }
+            ]
+          },
+          "conductores": {
+            "conductor": [
+              {
+                "@vehiculo": "Tren",
+                "dni": "12345678A",
+                "telefono": "661902887",
+                "matricula": "MUR8108"
+              },
+              {
+                "@vehiculo": "Tren",
+                "dni": "05285915D",
+                "telefono": "661902887",
+                "matricula": "QAJ3018"
+              },
+              {
+                "@vehiculo": "Tren",
+                "dni": "91582951E",
+                "telefono": "666178191",
+                "matricula": "ZAR0194"
+              }
+            ]
+          }
+        },
+        {
+          "@nombre": "Coche",
+          "velocidadmaxima": "180 km/h",
+          "contaminacion": "80",
+          "medio": "Terrestre",
+          "pasajeros": "5",
+          "conductores": {
+            "conductor": {
+              "@vehiculo": "Coche",
+              "dni": "98765432B",
+              "telefono": "691603950",
+              "matricula": "FYN1908"
+            }
+          }
+        },
+        {
+          "@nombre": "Bicicleta",
+          "velocidadmaxima": "40 km/h",
+          "contaminacion": "0",
+          "medio": "Terrestre",
+          "pasajeros": "1",
+          "conductores": {
+            "conductor": {
+              "@vehiculo": "Bicicleta",
+              "dni": "74912038C",
+              "telefono": "916390175"
+            }
+          }
+        }
+      ]
+    },
+    "#encoding": "iso-8859-1"
+  }
