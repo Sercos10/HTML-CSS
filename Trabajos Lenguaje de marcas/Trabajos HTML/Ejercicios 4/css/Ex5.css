@@ -1,0 +1,41 @@
+.horario{
+    border:solid black 1px;
+}
+
+.horario th,td{
+    border:solid black 1px;
+    text-align: center;
+}
+
+.PROG{
+    background-color: aquamarine;
+}
+
+.BBDD{
+    background-color: rgb(117, 248, 117);
+}
+
+.LLMM{
+    background-color: coral;
+}
+
+.EEDD{
+    background-color: fuchsia;
+}
+
+.SSII{
+    background-color: gold;
+}
+
+.FOL{
+    background-color: slategray;
+}
+.Horas{
+    background-color: lightsalmon;
+}
+.Recreo{
+    background-color: greenyellow;
+}
+.Dias{
+    background-color: blueviolet;
+}

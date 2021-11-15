@@ -1,0 +1,15 @@
+ol.shortcut {
+    list-style-type: decimal-leading-zero;
+}
+ol{
+    padding-left: 50%;
+}
+.ordered{
+    padding-left: 40%;
+}
+td h3{
+    min-width: max-content;
+}
+.encabezado{
+    padding-left: 38%;
+}

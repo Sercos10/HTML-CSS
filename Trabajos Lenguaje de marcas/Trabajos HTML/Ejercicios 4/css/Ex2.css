@@ -1,0 +1,15 @@
+table {
+    border:solid red 2px;
+    background-color: rgb(255, 224, 212);
+}
+ 
+#encabezado td {
+    text-align: center;
+    border:solid red 1px;
+    background-color: rgb(253, 222, 209);
+}
+
+td{
+    border:solid red 1px;
+    background-color: rgb(250, 226, 216);
+}
