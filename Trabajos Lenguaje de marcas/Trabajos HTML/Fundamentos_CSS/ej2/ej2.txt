@@ -1,0 +1,3 @@
+Los 5 ultimos parrafos se muestran de manera diferente a los 2 primeros de arriba debido a que 
+los 2 primeros parrafos tienen la clase verse, lo que necesitariamos hacer para que estos parrafos se muestren todos igual
+seria ponerle el atributo class="" a los otros 5 parrafos y dentro ponerle verse.

@@ -1,0 +1,11 @@
+Empezando por arriba, en el apartado de body lo que utiliza es background-color y escoge el color de fondo que va a tener la página
+
+Despues vemos que se le cambia el color y tamaño del texto que se encuentra entre la etiqueta h1
+
+Despues con la etiqueta hr lo que hace es cambiar el color de la linea a color navy
+
+Con respecto a las etiquetas p les cambia el tamaño al texto y cambia el margen izquierdo de la etiqueta a 15 pixeles
+
+En cuanto a las etiquetas p con clase verse les cambia el color de la letra a maroon y cambia su margen izquierdo a 60 pixeles
+
+Finalizando con los links/etiqueta a, nada más abrir el documento el enlace esta de color verde, si pasamos el cursor por encima esta de color negro, cuando le estamos haciendo click esta de color azul y cuando ya lo hemos visitado esta de color amarillo
