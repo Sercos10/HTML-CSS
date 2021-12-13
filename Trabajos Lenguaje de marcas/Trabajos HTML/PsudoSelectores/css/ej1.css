@@ -1,0 +1,27 @@
+th[colspan="5"]{
+    background-color: yellow;
+}
+td:first-child{
+    background-color: green;
+}
+a:link{
+    text-decoration: none;
+    color: green;
+}
+a:visited{
+    color: red;
+}
+tr>:last-of-type:hover{
+    font-size: 200%;
+}
+th::first-letter{
+    font-size: 200%;
+}
+input[type="text"]{
+    border: 1px solid red;
+    padding: 5px;
+}
+label::after{
+    content: "*";
+    color: red;
+}
