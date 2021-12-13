@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+}
+.tabla table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+.mp3{
+    border: 1px solid black;
+    border-collapse: collapse;
+    align-items: center;
+    background-color: blue;
+}
+.izquierda{
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.gigas{
+    background-color: grey;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: xx-large;
+}
+#rojo{
+    color:red;
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+#rojoazul{
+    color: red;
+    background-color: blue;
+    border: 1px solid black;
+    border-collapse: collapse; 
+}
+.normal{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+#horas{
+    background-color: yellow;
+    padding: 10%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+.azul{
+    background-color: blue;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
