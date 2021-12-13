@@ -1,0 +1,128 @@
+.fondo{
+    background-color: grey;
+    display: grid;
+    grid-template-rows: repeat(4,max-content);
+    grid-template-columns: repeat(4,20%);
+    width: 100%;
+    grid-row-gap: 20px;
+    grid-column-gap: 10px;
+    justify-content: center;
+}
+#Logo{
+    display: flex;
+    grid-row: auto;
+    grid-column: 1/5;
+    justify-content: center;    
+}
+
+#Logo h1{
+    color: lightgrey;
+    font-size: 70px;
+}
+.header{
+    background-color: white;
+    display: flex;
+    grid-row:auto;
+    grid-column: 1/5;
+    
+}
+.header input{
+    margin-left: 15px;
+    margin-right: 15px;
+    border: none;
+    background-color: inherit;
+    font-weight: bold;
+    margin: 10px;
+}
+.header input:nth-child(5){
+    margin-left: auto;
+    border: 1px solid grey;
+}
+.imagen{
+    display: flex;
+    grid-row: auto;
+    grid-column: 1/5;
+    justify-content: center;
+    background-color: white;
+}
+
+.imagen img{
+    width: 95%;
+    margin:20px;
+}
+
+#imagen1{
+    grid-row:auto;
+    grid-column: 1/2;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+#imagen1 p{
+    margin: 10px;
+}
+
+#imagen1 img{
+    width: 95%;
+    margin: 10px;
+}
+
+#imagen2{
+    grid-row:auto;
+    grid-column: 2/3;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+#imagen2 p{
+    margin: 10px;
+}
+
+#imagen2 img{
+    width: 95%;
+    margin: 10px;
+}
+
+#imagen3{
+    grid-row: auto;
+    grid-column: 3/4;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+#imagen3 p{
+    margin: 10px;
+}
+
+#imagen3 img{
+    width: 95%;
+    margin: 10px;
+}
+
+#imagen4{
+    grid-row:auto;
+    grid-column: 4/5;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+#imagen4 p{
+    margin: 10px;
+}
+
+#imagen4 img{
+    width: 95%;
+    margin: 10px;
+}
