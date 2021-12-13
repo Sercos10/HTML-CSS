@@ -1,0 +1,47 @@
+.arriba{
+    background-image:url(https://github.com/juanmirivas8/Lenguaje-de-Marcas/blob/master/LM_U3_T2_CSSLayout/Layout6/christmas.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+#titulo h2{
+    display: flex;
+    justify-content: left;
+    margin:2%;
+}
+
+.medio{
+    display: flex;
+    justify-content: center;
+}
+.medio img{
+    width: 20%;
+    margin: 2%;
+}
+.conjunto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3%;
+}
+.conjunto input{
+    margin-left: auto;
+    margin-right: 30px;
+    padding: 10px;
+}
+.abajo{
+    display: flex;
+    justify-content: center;
+}
+.imagenes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imagenes h1{
+    background-color: red;
+    padding: 100px;
+}
