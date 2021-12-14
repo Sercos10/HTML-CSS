@@ -1,0 +1,93 @@
+.fondo{
+    border: 3px solid lightgrey;
+}
+.cabecera{
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid lightgrey;
+}
+#izquierda{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+#imagen{
+    border-right: 1px solid lightgrey;
+}
+#derecha{
+    display: flex;
+    margin-left: auto;
+    justify-content: right;
+}
+#derecha input{
+    border: none;
+    background-color: white;
+}
+.centro{
+    display: flex;
+}
+.centro-izquierda{
+    display: flex;
+    flex-direction: column;
+   
+}
+#primero{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+}
+#segundo{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+}
+#segundo img{
+    margin-left: auto;
+    vertical-align: top;
+}
+#tercero{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+}
+#cuarto{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgrey;
+}
+#quinto{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgrey;
+}
+#sexto{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgrey;
+}
+#septimo{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgrey;
+}
+#septimo1-0{
+    display: flex;
+    
+}
+#septimo1-0 img{
+    width: 10%;
+}
+.medio-abajo{
+    display: flex;
+}
+#medio-arriba{
+    display: flex;
+    flex-direction: column;
+}
+.imagenes{
+    display: flex;
+
+}
+.abajo{
+    display: flex;
+}
+#foto ul{
+    list-style-type: none;
+}

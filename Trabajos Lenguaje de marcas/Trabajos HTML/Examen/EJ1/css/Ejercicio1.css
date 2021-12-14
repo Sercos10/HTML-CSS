@@ -1,0 +1,55 @@
+table{
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+}
+td::first-letter{
+    font-size: 200%;
+}
+td:hover{
+    color: green;
+}
+a:link{
+    color: brown;
+}
+a:visited{
+    color: fuchsia;
+}
+input[type="submit"]:hover{
+background-color: orange;
+}
+input[type="submit"]{
+    background-color: blue;
+}
+#Santa::first-letter{
+    font-size: 200%;
+    color: blue;
+}
+#Arriba{
+    border-bottom: 0px;
+}
+#Santa{
+    border-top: 0px;
+    color: orange;
+    font-size: x-large;
+    font-weight: bolder;
+}
+img{
+    width: 40%;
+    border-radius: 50%;
+}
+td[rowspan="2"]{
+    background-color: steelblue;
+}
+td[colspan="3"]{
+background-color: lightsalmon;
+}
+td[colspan="2"]{
+    background-color: lightgreen;
+}
